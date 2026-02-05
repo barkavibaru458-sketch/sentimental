@@ -1,0 +1,6 @@
+gunicorn
+streamlit
+textblob
+pandas
+PyPDF2
+
